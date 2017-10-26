@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Udacity Project</string>
+    <string name="empresa">Google</string>
+    <string name="empresa_photo">Foto da Empresa</string>
+    <string name="icon">Icone</string>
+    <string name="telefone">(11) 2445&#8211;8000</string>
+    <string name="endereço">Rua Lollipop, 1203</string>
+    <string name="site">http://google.com</string>
+    <string name="email">contact@google.com</string>
+    <string name="dias">Seg. à Sex.:</string>
+    <string name="horário">08:00 &#8211; 14:00</string>
+</resources>
